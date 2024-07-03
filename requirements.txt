@@ -1,0 +1,12 @@
+langchain==0.2.6 
+langchain-community==0.2.6 
+langchain-openai==0.1.14
+langchainhub==0.1.20
+openai==1.35.9 
+tiktoken==0.7.0
+azure-ai-documentintelligence==1.0.0b3
+azure-identity==1.17.0 
+azure-search-documents==11.6.0b3
+semantic-kernel==1.1.1
+pyautogen==0.2.31
+azure-storage-blob==12.20.0
