@@ -14,3 +14,4 @@
 # Uncomment the following pattern to include output for all notebooks
 # **
  
+azure-ai-document-intelligence/rag_search_index_ingestion.ipynb
