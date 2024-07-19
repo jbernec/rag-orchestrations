@@ -10,3 +10,4 @@ azure-search-documents==11.6.0b3
 semantic-kernel==1.1.1
 pyautogen==0.2.31
 azure-storage-blob==12.20.0
+tqdm==4.66.4
