@@ -20,3 +20,4 @@ azure-ai-document-intelligence/rag_document_extraction.ipynb
 azure-ai-document-intelligence/sk_knowledge_agent.ipynb
 insurance-claims-agent-based-rag.ipynb
 autogen/agent-based-insurance-claims-rag-recursive-chunking.ipynb
+autogen/agent-based-auto-insurance-rag-page-based chunking.ipynb
