@@ -16,3 +16,10 @@ pydub==0.25.1
 opencv-python==4.10.0.84
 moviepy==1.0.3
 SpeechRecognition==3.10.4
+gradio==4.43.0
+azure-cosmos==4.7.0
+llama-parse==0.4.9
+llama-index-core==0.10.65
+zure-storage-file-datalake==12.16.0
+azure-monitor-ingestion==1.0.4
+azure-monitor-opentelemetry-exporter==1.0.0b27
