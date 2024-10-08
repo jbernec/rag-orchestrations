@@ -23,3 +23,4 @@ llama-index-core==0.10.65
 zure-storage-file-datalake==12.16.0
 azure-monitor-ingestion==1.0.4
 azure-monitor-opentelemetry-exporter==1.0.0b27
+dbl-tempo==0.1.27
